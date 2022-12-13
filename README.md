@@ -1,8 +1,8 @@
 # Setting up a python-django development environment using venv.
 #### 1. Install Python
-- On MacOS install brew
+- Download from the official python website
 ```
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+https://www.python.org/downloads/release/python-3111/
 ```
 #### 2. Install Pip
 #### 3. Install venv
