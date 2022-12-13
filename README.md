@@ -15,7 +15,10 @@ python3 get-pip.py
 #### 3. Install venv
 - Run
 ```
-pip3 install venv
+pip3 install --upgrade pip
+```
+```
+pip3 install virtualenv
 ```
 
 #### 4. Cd into project directory and create virtual environment:
