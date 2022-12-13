@@ -46,5 +46,9 @@ django-admin --version
 ```
 django-admin startproject my_project
 ```
+#### 10. Install dependencies if any.
+```
+pip3 install -r requirements.txt
+```
 
 
