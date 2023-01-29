@@ -50,5 +50,9 @@ django-admin startproject my_project
 ```
 pip3 install -r requirements.txt
 ```
+#### 11. Start app.
+```
+django-admin startapp app_name
+```
 
 
