@@ -52,7 +52,7 @@ pip3 install -r requirements.txt
 ```
 #### 11. Start app.
 ```
-django-admin startapp app_name
+python manage.py startapp app_name
 ```
 
 
